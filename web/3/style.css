@@ -1,0 +1,21 @@
+.box{
+    background-color: blue;
+    padding: 10px;
+}
+
+p {
+    color: yellow;
+    margin: 0;
+    padding: 0;
+}
+
+#outerbox{
+    border: 10px solid purple;
+}
+
+.innerbox{
+    background: red;
+}
+.white-test{
+    color: white;
+}

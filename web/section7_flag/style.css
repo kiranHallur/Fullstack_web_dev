@@ -1,0 +1,35 @@
+/* red box */
+.flag{
+    height: 600px;
+    width: 900px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    position: relative;
+}
+
+/* blue box */
+.flag>div{
+    height: 300px;
+    width: 900px;
+    background: blue;
+    position: absolute;
+    top: 150px;
+}
+
+/* circle */
+.flag > div > div{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: white;
+    color: black;
+    position: relative;
+    top: 50px;
+    left: 350px;
+}
+
+p{
+    margin: 0;
+    font-size: 5rem;
+}

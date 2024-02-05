@@ -1,0 +1,47 @@
+.redbox{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: 10px solid black;
+    padding: 0px 30px 40px 50px;  
+    margin: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.bluebox{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+
+.orangebox{
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+}
+.greenbox{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+
+#red{
+    color: red;
+}
+
+#blue{
+    color: blue;
+}
+
+#orange{
+    color: orange;
+}
+
+#green{
+    color: green;
+}
+
+.color-title{
+    font-weight: normal;
+}
