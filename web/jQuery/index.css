@@ -1,0 +1,10 @@
+.big{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 5rem;
+    color: yellow;
+}
+
+.another{
+    border: 1px dotted black;
+    background: red;
+}
